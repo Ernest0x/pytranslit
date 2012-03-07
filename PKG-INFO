@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pytranslit
+Version: 0.1-git
+Summary: Tranliteration Module
+Home-page: http://github.com/Ernest0x/pytranslit
+Author: Petros Moisiadis
+Author-email: ernest0x@yahoo.gr
+License: GPLv3
+Description: A transliteration module for Python, based on transliteration system maps
+Platform: Any
